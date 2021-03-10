@@ -1,4 +1,4 @@
-## Culstering of Wholesale Customers:
+# Culstering of Wholesale Customers:
 
 ** The goal of the project is to use various clustering techniques to segment customers. 
 Clustering is an unsupervised learning algorithm that tries to cluster data based on their similarity. Thus, there is no outcome to be predicted, and the algorithm just tries to find patterns in the data.
@@ -11,7 +11,7 @@ The correct choice of k is often ambiguous, but from the above plot, I am going 
 
 Interpretation of the results: With my analysis, more than 70% of information about the multivariate data is captured by this plot of component 1 and 2.
 
-## Outlier detection with K-Means
+### Outlier detection with K-Means
 First, the data are partitioned into k groups by assigning them to the closest cluster centers, as follows:
 
 ![Imgur Image](https://github.com/mohite2/Academic-Projects/blob/main/Customer%20Behavior%20Analysis/Images/Outliers_k%20means.PNG)
