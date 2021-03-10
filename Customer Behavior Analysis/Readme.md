@@ -9,7 +9,8 @@ The correct choice of k is often ambiguous, but from the above plot, I am going 
 
 ![Imgur Image](https://github.com/mohite2/Academic-Projects/blob/main/Customer%20Behavior%20Analysis/Images/K-means%20clustering.png)
 
-Interpretation of the results: With my analysis, more than 70% of information about the multivariate data is captured by this plot of component 1 and 2.
+**Interpretation of the results: With my analysis, more than 70% of information about the multivariate data is captured by this plot of component 1 and 2.
+
 
 ### Outlier detection with K-Means
 First, the data are partitioned into k groups by assigning them to the closest cluster centers, as follows:
@@ -21,6 +22,7 @@ First, the data are partitioned into k groups by assigning them to the closest c
 These are the outliers:
 
 ![Imgur Image](https://github.com/mohite2/Academic-Projects/blob/main/Customer%20Behavior%20Analysis/Images/Outliers_custumers.PNG)
+
 
 
 ## Hierarchical Clustering
