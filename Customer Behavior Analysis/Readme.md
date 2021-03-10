@@ -7,7 +7,8 @@ Clustering is an unsupervised learning algorithm that tries to cluster data base
 ### K-Means Clustering: 
 The correct choice of k is often ambiguous, but from the above plot, I am going to try my cluster analysis with 6 clusters. 
 
-![Alt text](/Customer Behavior Analysis/Images/Rplot.png "Optional Title")
+![Imgur Image](https://github.com/mohite2/Academic-Projects/blob/main/Customer%20Behavior%20Analysis/Images/Dendogram.png)
+
 
 Interpretation of the results: With my analysis, more than 70% of information about the multivariate data is captured by this plot of component 1 and 2.
 
